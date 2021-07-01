@@ -17,7 +17,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 * [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
 
 ### Stock market analyst
-![image](https://user-images.githubusercontent.com/67658859/124061171-0be90400-d9f4-11eb-9fc9-fb7c01116f91.png)
+![image](https://user-images.githubusercontent.com/67658859/124061080-dba16580-d9f3-11eb-8246-ef08094c32c1.png)
 
 
 ## Instructions
@@ -35,8 +35,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 * You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
 * The result should look as follows.
-
-![image](https://user-images.githubusercontent.com/67658859/124061080-dba16580-d9f3-11eb-8246-ef08094c32c1.png)
+![image](https://user-images.githubusercontent.com/67658859/124061171-0be90400-d9f4-11eb-9fc9-fb7c01116f91.png)
 
 
 ## BONUS
