@@ -17,8 +17,8 @@ You are well on your way to becoming a programmer and Excel master! In this home
 * [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
 
 ### Stock market analyst
+![image](https://user-images.githubusercontent.com/67658859/124061171-0be90400-d9f4-11eb-9fc9-fb7c01116f91.png)
 
-![stock Market](Images/stockmarket.jpg)
 
 ## Instructions
 
@@ -43,7 +43,6 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
 
-![hard_solution](Images/hard_solution.png)
 
 * Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
