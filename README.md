@@ -36,7 +36,8 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * The result should look as follows.
 
-![moderate_solution](Images/moderate_solution.png)
+![image](https://user-images.githubusercontent.com/67658859/124061080-dba16580-d9f3-11eb-8246-ef08094c32c1.png)
+
 
 ## BONUS
 
